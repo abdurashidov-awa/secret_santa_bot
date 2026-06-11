@@ -1,0 +1,24 @@
+# Muhit o'zgaruvchilari — HECH QACHON git ga qo'shmang!
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+venv/
+.venv/
+env/
+
+# Loglar
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
